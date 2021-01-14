@@ -142,7 +142,7 @@
     "h1": {
       "category": "font",
       "fontSize": {
-        "value": 120,
+        "value": 60,
         "type": "number",
         "unit": "pixel"
       },
@@ -155,7 +155,7 @@
         "type": "string"
       },
       "fontStyle": {
-        "value": "Light",
+        "value": "Bold",
         "type": "string"
       },
       "letterSpacing": {
@@ -164,7 +164,7 @@
         "unit": "percent"
       },
       "lineHeight": {
-        "value": 56,
+        "value": 120,
         "type": "number",
         "unit": "pixels"
       },
