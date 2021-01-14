@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Thu, 14 Jan 2021 14:58:47 GMT
+// Generated on Thu, 14 Jan 2021 15:02:35 GMT
 //
 
 #import <UIKit/UIKit.h>
