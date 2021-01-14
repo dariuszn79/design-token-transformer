@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 14 Jan 2021 14:55:15 GMT
+// Generated on Thu, 14 Jan 2021 14:58:47 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -28,7 +28,7 @@ float const RadiiLrgRadiiTopRight = 12;
 float const RadiiLrgRadiiBottomRight = 12;
 float const RadiiLrgRadiiBottomLeft = 12;
 float const RadiiLrgSmoothing = 0;
-float const TypographyH1FontSize = 60;
+float const TypographyH1FontSize = 120;
 float const TypographyH1LetterSpacing = 0;
 float const TypographyH1LineHeight = 120;
 float const TypographyH1ParagraphIndent = 0;

@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 14 Jan 2021 14:55:15 GMT
+// Generated on Thu, 14 Jan 2021 14:58:47 GMT
 //
 
 
@@ -71,8 +71,8 @@ public class StyleDictionary {
     public static let radiiSmlRadiusType = single
     public static let radiiSmlSmoothing = 0
     public static let typographyH1FontFamily = Sky Text
-    public static let typographyH1FontSize = 60
-    public static let typographyH1FontStyle = Bold
+    public static let typographyH1FontSize = 120
+    public static let typographyH1FontStyle = Regular
     public static let typographyH1LetterSpacing = 0
     public static let typographyH1LineHeight = 120
     public static let typographyH1ParagraphIndent = 0

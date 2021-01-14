@@ -142,7 +142,7 @@
     "h1": {
       "category": "font",
       "fontSize": {
-        "value": 60,
+        "value": 120,
         "type": "number",
         "unit": "pixel"
       },
@@ -155,7 +155,7 @@
         "type": "string"
       },
       "fontStyle": {
-        "value": "Bold",
+        "value": "Regular",
         "type": "string"
       },
       "letterSpacing": {
