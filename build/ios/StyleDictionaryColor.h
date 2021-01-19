@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Thu, 14 Jan 2021 15:02:35 GMT
+// Generated on Tue, 19 Jan 2021 15:03:57 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -13,6 +13,7 @@ typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorsWhite6,
 ColorsWhite24,
 ColorsWhite100,
+ColorsText,
 ElevationBase0Color,
 ElevationBase1Color,
 ElevationSml0Color,

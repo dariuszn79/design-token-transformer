@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 14 Jan 2021 15:02:35 GMT
+// Generated on Tue, 19 Jan 2021 15:03:57 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -30,7 +30,7 @@ float const RadiiLrgRadiiBottomLeft = 12;
 float const RadiiLrgSmoothing = 0;
 float const TypographyH1FontSize = 120;
 float const TypographyH1LetterSpacing = 0;
-float const TypographyH1LineHeight = 120;
+float const TypographyH1LineHeight = normal;
 float const TypographyH1ParagraphIndent = 0;
 float const TypographyH1ParagraphSpacing = 8;
 float const TypographyH2FontSize = 50;
@@ -60,7 +60,7 @@ float const TypographyH6ParagraphIndent = 0;
 float const TypographyH6ParagraphSpacing = 8;
 float const TypographyParagraphFontSize = 32;
 float const TypographyParagraphLetterSpacing = 0;
-float const TypographyParagraphLineHeight = 38;
+float const TypographyParagraphLineHeight = 42;
 float const TypographyParagraphParagraphIndent = 0;
 float const TypographyParagraphParagraphSpacing = 8;
 float const ElevationBase0Radius = 3;

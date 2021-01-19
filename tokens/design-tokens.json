@@ -136,6 +136,12 @@
       "comment": null,
       "value": "rgba(255, 255, 255, 1)",
       "type": "color"
+    },
+    "text": {
+      "category": "fill",
+      "comment": null,
+      "value": "rgba(250, 250, 250, 1)",
+      "type": "color"
     }
   },
   "typography": {
@@ -155,7 +161,7 @@
         "type": "string"
       },
       "fontStyle": {
-        "value": "Regular",
+        "value": "Light",
         "type": "string"
       },
       "letterSpacing": {
@@ -164,7 +170,7 @@
         "unit": "percent"
       },
       "lineHeight": {
-        "value": 120,
+        "value": "normal",
         "type": "number",
         "unit": "pixels"
       },
@@ -428,7 +434,7 @@
         "unit": "percent"
       },
       "lineHeight": {
-        "value": 38,
+        "value": 42,
         "type": "number",
         "unit": "pixels"
       },
