@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 19 Jan 2021 15:15:45 GMT
+// Generated on Wed, 17 Feb 2021 12:44:56 GMT
 //
 
 import UIKit
@@ -33,6 +33,10 @@ public enum StyleDictionarySize {
     public static let sml1OffsetY = 2
     public static let sml1Radius = 7
     public static let sml1Spread = 0
+    public static let xlrgOffsetX = 0
+    public static let xlrgOffsetY = 25
+    public static let xlrgRadius = 50
+    public static let xlrgSpread = 0
     public static let lrgRadiiBottomLeft = 12
     public static let lrgRadiiBottomRight = 12
     public static let lrgRadiiTopLeft = 12
@@ -52,36 +56,43 @@ public enum StyleDictionarySize {
     public static let smlRadius = 6
     public static let smlSmoothing = 0
     public static let h1FontSize = 120
+    public static let h1FontWeight = 300
     public static let h1LetterSpacing = 0
     public static let h1LineHeight = normal
     public static let h1ParagraphIndent = 0
     public static let h1ParagraphSpacing = 8
     public static let h2FontSize = 50
+    public static let h2FontWeight = 400
     public static let h2LetterSpacing = 0
     public static let h2LineHeight = 56
     public static let h2ParagraphIndent = 0
     public static let h2ParagraphSpacing = 8
     public static let h3FontSize = 32
+    public static let h3FontWeight = 400
     public static let h3LetterSpacing = 0
     public static let h3LineHeight = 36
     public static let h3ParagraphIndent = 0
     public static let h3ParagraphSpacing = 8
     public static let h4FontSize = 32
+    public static let h4FontWeight = 500
     public static let h4LetterSpacing = 0
     public static let h4LineHeight = 36
     public static let h4ParagraphIndent = 0
     public static let h4ParagraphSpacing = 8
     public static let h5FontSize = 28
+    public static let h5FontWeight = 500
     public static let h5LetterSpacing = 0
     public static let h5LineHeight = 32
     public static let h5ParagraphIndent = 0
     public static let h5ParagraphSpacing = 8
     public static let h6FontSize = 26
+    public static let h6FontWeight = 500
     public static let h6LetterSpacing = 0
     public static let h6LineHeight = 30
     public static let h6ParagraphIndent = 0
     public static let h6ParagraphSpacing = 8
     public static let paragraphFontSize = 32
+    public static let paragraphFontWeight = 400
     public static let paragraphLetterSpacing = 0
     public static let paragraphLineHeight = 42
     public static let paragraphParagraphIndent = 0

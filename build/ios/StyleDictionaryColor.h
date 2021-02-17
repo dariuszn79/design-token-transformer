@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 19 Jan 2021 15:15:45 GMT
+// Generated on Wed, 17 Feb 2021 12:44:56 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -19,7 +19,8 @@ ElevationBase1Color,
 ElevationSml0Color,
 ElevationSml1Color,
 ElevationLrg0Color,
-ElevationLrg1Color
+ElevationLrg1Color,
+ElevationXlrgColor
 };
 
 @interface StyleDictionaryColor : NSObject

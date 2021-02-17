@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 19 Jan 2021 15:15:45 GMT
+// Generated on Wed, 17 Feb 2021 12:44:56 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -29,36 +29,43 @@ float const RadiiLrgRadiiBottomRight = 12;
 float const RadiiLrgRadiiBottomLeft = 12;
 float const RadiiLrgSmoothing = 0;
 float const TypographyH1FontSize = 120;
+float const TypographyH1FontWeight = 300;
 float const TypographyH1LetterSpacing = 0;
 float const TypographyH1LineHeight = normal;
 float const TypographyH1ParagraphIndent = 0;
 float const TypographyH1ParagraphSpacing = 8;
 float const TypographyH2FontSize = 50;
+float const TypographyH2FontWeight = 400;
 float const TypographyH2LetterSpacing = 0;
 float const TypographyH2LineHeight = 56;
 float const TypographyH2ParagraphIndent = 0;
 float const TypographyH2ParagraphSpacing = 8;
 float const TypographyH3FontSize = 32;
+float const TypographyH3FontWeight = 400;
 float const TypographyH3LetterSpacing = 0;
 float const TypographyH3LineHeight = 36;
 float const TypographyH3ParagraphIndent = 0;
 float const TypographyH3ParagraphSpacing = 8;
 float const TypographyH4FontSize = 32;
+float const TypographyH4FontWeight = 500;
 float const TypographyH4LetterSpacing = 0;
 float const TypographyH4LineHeight = 36;
 float const TypographyH4ParagraphIndent = 0;
 float const TypographyH4ParagraphSpacing = 8;
 float const TypographyH5FontSize = 28;
+float const TypographyH5FontWeight = 500;
 float const TypographyH5LetterSpacing = 0;
 float const TypographyH5LineHeight = 32;
 float const TypographyH5ParagraphIndent = 0;
 float const TypographyH5ParagraphSpacing = 8;
 float const TypographyH6FontSize = 26;
+float const TypographyH6FontWeight = 500;
 float const TypographyH6LetterSpacing = 0;
 float const TypographyH6LineHeight = 30;
 float const TypographyH6ParagraphIndent = 0;
 float const TypographyH6ParagraphSpacing = 8;
 float const TypographyParagraphFontSize = 32;
+float const TypographyParagraphFontWeight = 400;
 float const TypographyParagraphLetterSpacing = 0;
 float const TypographyParagraphLineHeight = 42;
 float const TypographyParagraphParagraphIndent = 0;
@@ -87,3 +94,7 @@ float const ElevationLrg1Radius = 25;
 float const ElevationLrg1OffsetX = 0;
 float const ElevationLrg1OffsetY = 20;
 float const ElevationLrg1Spread = 0;
+float const ElevationXlrgRadius = 50;
+float const ElevationXlrgOffsetX = 0;
+float const ElevationXlrgOffsetY = 25;
+float const ElevationXlrgSpread = 0;

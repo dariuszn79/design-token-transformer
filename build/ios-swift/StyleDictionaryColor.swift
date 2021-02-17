@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 19 Jan 2021 15:15:45 GMT
+// Generated on Wed, 17 Feb 2021 12:44:56 GMT
 //
 
 import UIKit
@@ -19,4 +19,5 @@ public enum StyleDictionaryColor {
     public static let lrg1Color = rgba(0, 0, 0, 0.1)
     public static let sml0Color = rgba(0, 0, 0, 0.05)
     public static let sml1Color = rgba(0, 0, 0, 0.04)
+    public static let xlrgColor = rgba(0, 0, 0, 0.25)
 }

@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 19 Jan 2021 15:15:45 GMT
+// Generated on Wed, 17 Feb 2021 12:44:56 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -28,36 +28,43 @@ extern float const RadiiLrgRadiiBottomRight;
 extern float const RadiiLrgRadiiBottomLeft;
 extern float const RadiiLrgSmoothing;
 extern float const TypographyH1FontSize;
+extern float const TypographyH1FontWeight;
 extern float const TypographyH1LetterSpacing;
 extern float const TypographyH1LineHeight;
 extern float const TypographyH1ParagraphIndent;
 extern float const TypographyH1ParagraphSpacing;
 extern float const TypographyH2FontSize;
+extern float const TypographyH2FontWeight;
 extern float const TypographyH2LetterSpacing;
 extern float const TypographyH2LineHeight;
 extern float const TypographyH2ParagraphIndent;
 extern float const TypographyH2ParagraphSpacing;
 extern float const TypographyH3FontSize;
+extern float const TypographyH3FontWeight;
 extern float const TypographyH3LetterSpacing;
 extern float const TypographyH3LineHeight;
 extern float const TypographyH3ParagraphIndent;
 extern float const TypographyH3ParagraphSpacing;
 extern float const TypographyH4FontSize;
+extern float const TypographyH4FontWeight;
 extern float const TypographyH4LetterSpacing;
 extern float const TypographyH4LineHeight;
 extern float const TypographyH4ParagraphIndent;
 extern float const TypographyH4ParagraphSpacing;
 extern float const TypographyH5FontSize;
+extern float const TypographyH5FontWeight;
 extern float const TypographyH5LetterSpacing;
 extern float const TypographyH5LineHeight;
 extern float const TypographyH5ParagraphIndent;
 extern float const TypographyH5ParagraphSpacing;
 extern float const TypographyH6FontSize;
+extern float const TypographyH6FontWeight;
 extern float const TypographyH6LetterSpacing;
 extern float const TypographyH6LineHeight;
 extern float const TypographyH6ParagraphIndent;
 extern float const TypographyH6ParagraphSpacing;
 extern float const TypographyParagraphFontSize;
+extern float const TypographyParagraphFontWeight;
 extern float const TypographyParagraphLetterSpacing;
 extern float const TypographyParagraphLineHeight;
 extern float const TypographyParagraphParagraphIndent;
@@ -86,3 +93,7 @@ extern float const ElevationLrg1Radius;
 extern float const ElevationLrg1OffsetX;
 extern float const ElevationLrg1OffsetY;
 extern float const ElevationLrg1Spread;
+extern float const ElevationXlrgRadius;
+extern float const ElevationXlrgOffsetX;
+extern float const ElevationXlrgOffsetY;
+extern float const ElevationXlrgSpread;
