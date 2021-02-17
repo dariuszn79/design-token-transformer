@@ -3,13 +3,14 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 17 Feb 2021 12:44:56 GMT
+// Generated on Wed, 17 Feb 2021 14:01:06 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+Primary100,
 ColorsWhite6,
 ColorsWhite24,
 ColorsWhite100,

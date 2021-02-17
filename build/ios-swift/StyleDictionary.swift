@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 17 Feb 2021 12:44:56 GMT
+// Generated on Wed, 17 Feb 2021 14:01:06 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorsText = rgba(252, 85, 255, 1)
+    public static let colorsText = rgba(85, 255, 163, 1)
     public static let colorsWhite100 = rgba(255, 255, 255, 1)
     public static let colorsWhite24 = rgba(255, 255, 255, 0.24)
     public static let colorsWhite6 = rgba(255, 255, 255, 0.06)
@@ -56,6 +56,7 @@ public class StyleDictionary {
     public static let elevationXlrgRadius = 50
     public static let elevationXlrgSpread = 0
     public static let elevationXlrgType = dropShadow
+    public static let primary100 = rgba(255, 255, 255, 1)
     public static let radiiLrgRadiiBottomLeft = 12
     public static let radiiLrgRadiiBottomRight = 12
     public static let radiiLrgRadiiTopLeft = 12
