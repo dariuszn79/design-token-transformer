@@ -3,13 +3,13 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 17 Feb 2021 14:12:41 GMT
+// Generated on Wed, 17 Feb 2021 14:38:43 GMT
 //
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let text = rgba(85, 255, 163, 1)
+    public static let text = rgba(85, 255, 235, 1)
     public static let white100 = rgba(255, 255, 255, 1)
     public static let white24 = rgba(255, 255, 255, 0.24)
     public static let white6 = rgba(255, 255, 255, 0.06)
