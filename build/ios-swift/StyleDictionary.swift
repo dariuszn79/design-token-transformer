@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 17 Feb 2021 15:33:53 GMT
+// Generated on Thu, 25 Feb 2021 14:26:29 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorsText = rgba(85, 255, 235, 1)
+    public static let colorsText = rgba(221, 85, 255, 1)
     public static let colorsWhite100 = rgba(255, 255, 255, 1)
     public static let colorsWhite24 = rgba(255, 255, 255, 0.24)
     public static let colorsWhite6 = rgba(255, 255, 255, 0.06)
