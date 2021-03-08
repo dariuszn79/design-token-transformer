@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Thu, 25 Feb 2021 14:29:45 GMT
+// Generated on Mon, 08 Mar 2021 10:58:56 GMT
 //
 
 #import "StyleDictionaryColor.h"
@@ -25,7 +25,7 @@ rgba(255, 255, 255, 1),
 rgba(255, 255, 255, 0.06),
 rgba(255, 255, 255, 0.24),
 rgba(255, 255, 255, 1),
-rgba(221, 85, 255, 1),
+rgba(39, 255, 48, 1),
 rgba(0, 0, 0, 0.1),
 rgba(0, 0, 0, 0.06),
 rgba(0, 0, 0, 0.05),
