@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 08 Mar 2021 11:09:55 GMT
+// Generated on Mon, 08 Mar 2021 11:15:43 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorsText = rgba(39, 255, 48, 1)
+    public static let colorsText = rgba(34, 255, 242, 1)
     public static let colorsWhite100 = rgba(255, 255, 255, 1)
     public static let colorsWhite24 = rgba(255, 255, 255, 0.24)
     public static let colorsWhite6 = rgba(255, 255, 255, 0.06)
@@ -79,7 +79,7 @@ public class StyleDictionary {
     public static let radiiSmlRadiusType = single
     public static let radiiSmlSmoothing = 0
     public static let typographyH1FontFamily = Sky Text
-    public static let typographyH1FontSize = 120
+    public static let typographyH1FontSize = 90
     public static let typographyH1FontStretch = normal
     public static let typographyH1FontStyle = normal
     public static let typographyH1FontStyleOld = Light
