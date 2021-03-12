@@ -24,7 +24,7 @@
   "ColorsWhite6": "rgba(255, 255, 255, 0.06)",
   "ColorsWhite24": "rgba(255, 255, 255, 0.24)",
   "ColorsWhite100": "rgba(255, 255, 255, 1)",
-  "ColorsText": "rgba(34, 255, 242, 1)",
+  "ColorsText": "rgba(38, 255, 34, 1)",
   "TypographyH1FontSize": 90,
   "TypographyH1TextDecoration": "none",
   "TypographyH1FontFamily": "Sky Text",
