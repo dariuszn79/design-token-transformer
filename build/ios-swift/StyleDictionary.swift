@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:34:58 GMT
+// Generated on Tue, 22 Jun 2021 08:30:58 GMT
 //
 
 
@@ -57,6 +57,13 @@ public class StyleDictionary {
     public static let elevationXlrgSpread = 0
     public static let elevationXlrgType = dropShadow
     public static let primary100 = rgba(255, 255, 255, 1)
+    public static let radii5RadiiBottomLeft = 5
+    public static let radii5RadiiBottomRight = 5
+    public static let radii5RadiiTopLeft = 5
+    public static let radii5RadiiTopRight = 5
+    public static let radii5Radius = 5
+    public static let radii5RadiusType = single
+    public static let radii5Smoothing = 0
     public static let radiiLrgRadiiBottomLeft = 12
     public static let radiiLrgRadiiBottomRight = 12
     public static let radiiLrgRadiiTopLeft = 12
@@ -71,6 +78,12 @@ public class StyleDictionary {
     public static let radiiMedRadius = 10
     public static let radiiMedRadiusType = single
     public static let radiiMedSmoothing = 0
+    public static let radiiMixedRadiiBottomLeft = 20
+    public static let radiiMixedRadiiBottomRight = 15
+    public static let radiiMixedRadiiTopLeft = 5
+    public static let radiiMixedRadiiTopRight = 10
+    public static let radiiMixedRadiusType = mixed
+    public static let radiiMixedSmoothing = 0
     public static let radiiSmlRadiiBottomLeft = 6
     public static let radiiSmlRadiiBottomRight = 6
     public static let radiiSmlRadiiTopLeft = 6
@@ -78,6 +91,28 @@ public class StyleDictionary {
     public static let radiiSmlRadius = 6
     public static let radiiSmlRadiusType = single
     public static let radiiSmlSmoothing = 0
+    public static let radiiSmoothingRadiiBottomLeft = 10
+    public static let radiiSmoothingRadiiBottomRight = 10
+    public static let radiiSmoothingRadiiTopLeft = 10
+    public static let radiiSmoothingRadiiTopRight = 10
+    public static let radiiSmoothingRadius = 10
+    public static let radiiSmoothingRadiusType = single
+    public static let radiiSmoothingSmoothing = 0.75
+    public static let sizes40 = 40
+    public static let sizes60 = 60
+    public static let sizes80 = 80
+    public static let spacing10Bottom = 10
+    public static let spacing10Left = 10
+    public static let spacing10Right = 10
+    public static let spacing10Top = 10
+    public static let spacingMixedBottom = 30
+    public static let spacingMixedLeft = 20
+    public static let spacingMixedRight = 20
+    public static let spacingMixedTop = 10
+    public static let spacingTopBottom = 0
+    public static let spacingTopLeft = 0
+    public static let spacingTopRight = 0
+    public static let spacingTopTop = 10
     public static let typographyH1FontFamily = Sky Text
     public static let typographyH1FontSize = 90
     public static let typographyH1FontStretch = normal

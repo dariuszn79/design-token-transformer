@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:34:58 GMT
+// Generated on Tue, 22 Jun 2021 08:30:58 GMT
 //
 
 import UIKit

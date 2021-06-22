@@ -3,13 +3,34 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 12 May 2021 11:34:58 GMT
+// Generated on Tue, 22 Jun 2021 08:30:58 GMT
 //
 
 #import "StyleDictionarySize.h"
 
 
 
+float const Sizes40 = 40;
+float const Sizes60 = 60;
+float const Sizes80 = 80;
+float const Spacing10Top = 10;
+float const Spacing10Right = 10;
+float const Spacing10Bottom = 10;
+float const Spacing10Left = 10;
+float const SpacingMixedTop = 10;
+float const SpacingMixedRight = 20;
+float const SpacingMixedBottom = 30;
+float const SpacingMixedLeft = 20;
+float const SpacingTopTop = 10;
+float const SpacingTopRight = 0;
+float const SpacingTopBottom = 0;
+float const SpacingTopLeft = 0;
+float const Radii5Radius = 5;
+float const Radii5RadiiTopLeft = 5;
+float const Radii5RadiiTopRight = 5;
+float const Radii5RadiiBottomRight = 5;
+float const Radii5RadiiBottomLeft = 5;
+float const Radii5Smoothing = 0;
 float const RadiiSmlRadius = 6;
 float const RadiiSmlRadiiTopLeft = 6;
 float const RadiiSmlRadiiTopRight = 6;
@@ -28,6 +49,17 @@ float const RadiiLrgRadiiTopRight = 12;
 float const RadiiLrgRadiiBottomRight = 12;
 float const RadiiLrgRadiiBottomLeft = 12;
 float const RadiiLrgSmoothing = 0;
+float const RadiiSmoothingRadius = 10;
+float const RadiiSmoothingRadiiTopLeft = 10;
+float const RadiiSmoothingRadiiTopRight = 10;
+float const RadiiSmoothingRadiiBottomRight = 10;
+float const RadiiSmoothingRadiiBottomLeft = 10;
+float const RadiiSmoothingSmoothing = 0.75;
+float const RadiiMixedRadiiTopLeft = 5;
+float const RadiiMixedRadiiTopRight = 10;
+float const RadiiMixedRadiiBottomRight = 15;
+float const RadiiMixedRadiiBottomLeft = 20;
+float const RadiiMixedSmoothing = 0;
 float const TypographyH1FontSize = 90;
 float const TypographyH1FontWeight = 300;
 float const TypographyH1LetterSpacing = 0;
