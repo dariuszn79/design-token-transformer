@@ -3,63 +3,14 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 23 Jun 2021 12:50:37 GMT
+// Generated on Mon, 05 Jul 2021 09:00:03 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-PrimaryPrimary100,
-PrimaryPrimary200,
-PrimaryPrimary300,
-PrimaryPrimary400,
-DarkDark,
-DarkDarkTint100,
-DarkDarkTint200,
-DarkDarkTint400,
-DarkDarkTint500,
-NeutralNeutralTvsafe,
-NeutralNeutral,
-NeutralNeutralTint100,
-NeutralNeutralTint200,
-NeutralNeutralTint300,
-NeutralNeutralTint400,
-SecondarySecondary100,
-SecondarySecondary200,
-SecondarySecondary300,
-TertiaryTertiary100,
-TertiaryTertiary200,
-TertiaryTertiary300,
-TertiaryTertiary400,
-TertiaryTertiary500,
-TertiaryTertiary600,
-AlertsAlertsError,
-AlertsAlertsConfirm,
-OverlaysOverlay100,
-OverlaysOverlay200,
-GradientsGradientLightStops0Color,
-GradientsGradientLightStops1Color,
-GradientsGradientHeroShowpageStops0Color,
-GradientsGradientHeroShowpageStops1Color,
-GradientsGradientHeroTileheaderSml0Stops0Color,
-GradientsGradientHeroTileheaderSml0Stops1Color,
-GradientsGradientHeroTileheaderSml1Stops0Color,
-GradientsGradientHeroTileheaderSml1Stops1Color,
-GradientsGradientHeroTileheaderLrg0Stops0Color,
-GradientsGradientHeroTileheaderLrg0Stops1Color,
-GradientsGradientHeroTileheaderLrg0Stops2Color,
-GradientsGradientHeroTileheaderLrg1Stops0Color,
-GradientsGradientHeroTileheaderLrg1Stops1Color,
-GradientsGradientHeroTileheaderLrg1Stops2Color,
-GradientsGradientHeroTileheaderLrg1Stops3Color,
-GradientsGradientHeroShowcase0Stops0Color,
-GradientsGradientHeroShowcase0Stops1Color,
-GradientsGradientHeroShowcase0Stops2Color,
-GradientsGradientHeroShowcase0Stops3Color,
-GradientsGradientHeroShowcase1Stops0Color,
-GradientsGradientHeroShowcase1Stops1Color,
-GradientsGradientHeroShowcase1Stops2Color
+
 };
 
 @interface StyleDictionaryColor : NSObject
