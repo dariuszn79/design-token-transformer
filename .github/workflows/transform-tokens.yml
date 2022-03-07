@@ -57,6 +57,6 @@ jobs:
           source_file: 'build/css/_variables.css'
           destination_repo: 'dariuszn79/dt-react'
           destination_folder: 'src/global'
-          user_email: 'dariusz.nowacki@sky.uk'
+          user_email: 'dariusz@inkable.london'
           user_name: 'dariuszn79'
        
