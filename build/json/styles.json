@@ -1,3 +1,22 @@
 {
-
+  "GradientGradientSingleWithMultipleColorStops": {"gradientType":"radial","rotation":180,"stops":[{"position":0,"color":"#ffb800ff"},{"position":0.34,"color":"#ff8a00ff"},{"position":0.65,"color":"#ff2e00ff"},{"position":1,"color":"#ff0000ff"}]},
+  "GradientGradientMultiplegrad0": {"gradientType":"linear","rotation":180,"stops":[{"position":0,"color":"#ffb800ff"},{"position":1,"color":"#ffb80000"}]},
+  "GradientGradientMultiplegrad1": {"gradientType":"radial","rotation":180,"stops":[{"position":0,"color":"#ffffffff"},{"position":1,"color":"#ffffff00"}]},
+  "GradientGradientMultiplegrad2": {"gradientType":"angular","rotation":180,"stops":[{"position":0,"color":"#cf3030ff"},{"position":1,"color":"#ffffff00"}]},
+  "GradientGradientMultiplegrad3": {"gradientType":"diamond","rotation":180,"stops":[{"position":0,"color":"#4a4fccff"},{"position":0.23,"color":"#ffffff00"}]},
+  "ColorColorsMultipleFills0": "#40ffba",
+  "ColorColorsMultipleFills1": "#000000",
+  "ColorColorsSingleBlue": "#044aff",
+  "ColorColorsRefBlue": {"description":"","type":"color","value":"#044aff","extensions":{"org.lukasoppermann.figmaDesignTokens":{"styleId":"S:1305fb0e5dbaf6a15af8e1a6d958ea0289d53fbf,","exportKey":"color"}},"original":{"description":"","type":"color","value":"#044affff","extensions":{"org.lukasoppermann.figmaDesignTokens":{"styleId":"S:1305fb0e5dbaf6a15af8e1a6d958ea0289d53fbf,","exportKey":"color"}}},"name":"ColorColorsSingleBlue","attributes":{"category":"color","type":"colors","item":"single blue"},"path":["color","colors","single blue"]},
+  "ColorColorsSpecialCharacters😅": "#40df50",
+  "ColorColorsSpecialCharactersAnderung": "#3456af",
+  "ColorInvalidEmpty": "#000000",
+  "ColorLightBackground": "#ffffff",
+  "ColorDarkBackground": "#000000",
+  "FontBodyH3": {"fontSize":20,"textDecoration":"none","fontFamily":"Akzidenz-Grotesk Pro","fontWeight":700,"fontStyle":"normal","fontStretch":"condensed","letterSpacing":0.4,"lineHeight":32,"paragraphIndent":5,"paragraphSpacing":8,"textCase":"uppercase"},
+  "FontBodyH4StrikeThrough": {"fontSize":16,"textDecoration":"line-through","fontFamily":"Roboto","fontWeight":500,"fontStyle":"italic","fontStretch":"normal","letterSpacing":0,"lineHeight":19.2,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "FontBodyItalic": {"fontSize":12,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"italic","fontStretch":"normal","letterSpacing":0,"lineHeight":14,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "FontBodyExtraBoldCondensedItalic": {"fontSize":12,"textDecoration":"none","fontFamily":"Akzidenz-Grotesk Pro","fontWeight":800,"fontStyle":"italic","fontStretch":"condensed","letterSpacing":0,"lineHeight":14.4,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "FontBodyMediumExtendedItalic": {"fontSize":20,"textDecoration":"none","fontFamily":"Akzidenz-Grotesk Pro","fontWeight":500,"fontStyle":"italic","fontStretch":"expanded","letterSpacing":0,"lineHeight":24,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "FontBodySuper": {"fontSize":22,"textDecoration":"none","fontFamily":"Akzidenz-Grotesk Pro","fontWeight":900,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":26.4,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"}
 }
